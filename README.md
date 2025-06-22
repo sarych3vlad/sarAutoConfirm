@@ -20,8 +20,8 @@
 
 ## Установка
 
-1. Скачайте последний релиз:  
-   [https://github.com/sarych3vlad/sarAutoConfirm](https://github.com/sarych3vlad/sarAutoConfirm)
+1. Скачайте последний релиз
+   
 2. Поместите папку `sarAutoConfirm` в:
    ```
    World of Warcraft/Interface/AddOns/
