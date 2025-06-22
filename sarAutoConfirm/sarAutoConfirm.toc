@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cff009cffsar|rAutoConfirm
+## Notes: Автоматическое подтверждение почты при смене подсети
+## Author: Сарыч
+## SavedVariables: sarAutoConfirmDB
+## SavedVariablesPerCharacter: sarAutoConfirmCharDB
+
+sarAutoConfirm.lua
+sarAutoConfirmOptions.lua
