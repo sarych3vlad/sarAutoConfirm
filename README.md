@@ -19,10 +19,8 @@
 
 ## Установка
 
-1. Скачайте последний релиз или клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/YourName/sarAutoConfirm.git
-   ```
+1. Скачайте последний релиз или клонируйте репозиторий
+   
 2. Поместите папку `sarAutoConfirm` в:
    ```
    World of Warcraft/Interface/AddOns/
@@ -49,7 +47,3 @@ sarAutoConfirm/
 ├── sarAutoConfirm.lua
 └── sarAutoConfirmOptions.lua
 ```
-
-## Лицензия
-
-Проект распространяется под лицензией MIT. Используйте свободно.
