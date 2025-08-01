@@ -84,7 +84,7 @@ f:SetScript("OnEvent", function(self, event, ...)
 
     elseif event == "CHAT_MSG_SYSTEM" then
         local msg = ...
-        if msg and msg:find("изменение подсети") then
+        if msg and (msg:find("изменение подсети") or msg:find("В целях безопасности некоторые действия временно недоступны")) then
             DebugPrint("обнаружено сообщение-триггер, запускаю цепочку")
             active, step, timer = true, 0, 0
             SendChatMessage(".menu", "SAY")
